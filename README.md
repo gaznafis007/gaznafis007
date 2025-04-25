@@ -1,52 +1,87 @@
-### Hey there, I'm Gazi Nafis! 👋
+# Gazi Nafis MD Abdullah 👨‍💻
 
-I'm a Full-Stack Developer passionate about building scalable, high-performance web applications and exploring innovative solutions in the tech space. With expertise in the MERN stack, I focus on writing clean, efficient, and maintainable code to create seamless digital experiences.
+> Full-Stack Developer passionate about crafting scalable, high-performance web applications
 
-Currently, I'm actively contributing to open-source projects and working on my own product, Stacksatoru, where I aim to push the boundaries of modern web development. Always eager to learn and collaborate, I thrive on solving complex problems and bringing ideas to life.
+I focus on writing clean, efficient, and maintainable code to create seamless digital experiences. Currently contributing to open-source projects and developing my product, **Stacksatoru**, where I aim to push the boundaries of modern web development.
 
-Let's connect and build something amazing! 🚀
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gazi-nafis-rafi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gazi-nafis-4712771a4/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gaznafis007/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://gazi-nafis-rafi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gazi-nafis-4712771a4/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gaznafis007/)
+## 💻 Tech Stack
 
----
-## ⚡ Tech Stack & Skills
+### Frontend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="45" height="45"/>
+</p>
 
-### **Frontend**
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-%236333FF.svg?style=flat-square&logo=shadcn&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white)
+### Backend & Database
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+</p>
 
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+### Tools & DevOps
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+</p>
 
-### **Others**
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=flat-square&logo=api&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat-square&logo=netlify&logoColor=white)
-
----
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaznafis007&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaznafis007&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaznafis007&theme=radical)
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gaznafis007&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gazi Nafis GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaznafis007&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=gaznafis007&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</div>
+
+<div align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaznafis007&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=gaznafis007&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="90%">
+</div>
+
+## 🚀 Current Projects
+
+- **Stacksatoru**: A next-generation web development framework
+- Open-source contributions to various JavaScript libraries
+- Exploring serverless architectures and microservices
+
+## 📬 Connect With Me
+
+- 💼 **LinkedIn**: [Gazi Nafis](https://www.linkedin.com/in/gazi-nafis-4712771a4/)
+- 💡 **LeetCode**: [gaznafis007](https://leetcode.com/u/gaznafis007/)
+- 🌐 **Portfolio**: [gazi-nafis-rafi.vercel.app](https://gazi-nafis-rafi.vercel.app/)
+- 📧 **Email**: [nafis.abdullah@example.com](mailto:your-email@example.com)
 
 ---
-## 💬 Let's Connect!
-- 🔗 **LinkedIn:** [Gazi Nafis](https://www.linkedin.com/in/gazi-nafis-4712771a4/)
-- 💡 **LeetCode:** [Gazi Nafis Md Abdullah](https://leetcode.com/u/gaznafis007/)
-- 🌎 **Portfolio:** [Visit my website](https://gazi-nafis-rafi.vercel.app/)
 
-🚀 Open to collaborations and new opportunities. Feel free to reach out! 💼
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gaznafis007&color=blueviolet" alt="Profile Views" />
+  <p>Open to collaborations and new opportunities. Feel free to reach out! 💼</p>
+</div>
