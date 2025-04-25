@@ -77,7 +77,7 @@ I focus on writing clean, efficient, and maintainable code to create seamless di
 - 💼 **LinkedIn**: [Gazi Nafis](https://www.linkedin.com/in/gazi-nafis-4712771a4/)
 - 💡 **LeetCode**: [gaznafis007](https://leetcode.com/u/gaznafis007/)
 - 🌐 **Portfolio**: [gazi-nafis-rafi.vercel.app](https://gazi-nafis-rafi.vercel.app/)
-- 📧 **Email**: [nafis.abdullah@example.com](mailto:your-email@example.com)
+- 📧 **Email**: [gazinafisrafi.gnr@gmail.com](mailto:gazinafisrafi.gnr@gmail.com)
 
 ---
 
