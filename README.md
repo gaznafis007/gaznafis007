@@ -1,6 +1,6 @@
 <div align="center">
   
-# ⚡ GAZI NAFIS MD ABDULLAH ⚡
+## ⚡ GAZI NAFIS MD ABDULLAH ⚡
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00BFBF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;JavaScript+Expert;Software+Engineer;Problem+Solver)](https://git.io/typing-svg)
 
