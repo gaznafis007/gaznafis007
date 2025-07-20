@@ -19,7 +19,7 @@ I focus on writing clean, efficient, and maintainable code to create seamless di
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%">
+  <img src="https://cooltext.com/Render?text=Gazi's+Craft&font=Minecraft&size=50&color1=%23000000&bgcolor=%23ffffff00" alt="Minecraft Title" />
 </div>
 
 <div align="center">
