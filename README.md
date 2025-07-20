@@ -22,16 +22,6 @@ I focus on writing clean, efficient, and maintainable code to create seamless di
   <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%">
 </p>
-
-<p align="center" style="font-size: 20px;">
-  ⛏️🟫🟩🟫🟩 <strong>Welcome to My Blocky World</strong> 🟩🟫🟩🟫⛏️
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/OD3N1dT.png" alt="minecraft dirt block" width="80" />
-  <img src="https://i.imgur.com/OD3N1dT.png" alt="minecraft dirt block" width="80" />
-  <img src="https://i.imgur.com/OD3N1dT.png" alt="minecraft dirt block" width="80" />
-</p>
 </div>
 
 <div align="center">
