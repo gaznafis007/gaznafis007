@@ -1,309 +1,154 @@
 <div align="center">
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
-
-</div>
-
 ```
- ██████╗  █████╗ ███████╗██╗
-██╔════╝ ██╔══██╗╚══███╔╝██║
-██║  ███╗███████║  ███╔╝ ██║
-██║   ██║██╔══██║ ███╔╝  ██║
-╚██████╔╝██║  ██║███████╗██║
- ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝
-███╗   ██╗ █████╗ ███████╗██╗███████╗
-████╗  ██║██╔══██╗██╔════╝██║██╔════╝
-██╔██╗ ██║███████║█████╗  ██║███████╗
-██║╚██╗██║██╔══██║██╔══╝  ██║╚════██║
-██║ ╚████║██║  ██║██║     ██║███████║
-╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
+▄▀▀▀▄ ▄▀▀▀▄ ▀▀▀▀█ ▀▀█▀▀    █▄  █ ▄▀▀▀▄ █▀▀▀▀ ▀▀█▀▀ ▄▀▀▀▀    █▄ ▄█ █▀▀▀▄
+█  ▄▄ █▄▄▄█   ▄▀    █      █ ▀▄█ █▄▄▄█ █▄▄▄    █   ▀▄▄▄     █ ▀ █ █   █
+█   █ █   █ ▄▀      █      █   █ █   █ █       █       █    █   █ █   █
+ ▀▀▀  ▀   ▀ ▀▀▀▀▀ ▀▀▀▀▀    ▀   ▀ ▀   ▀ ▀     ▀▀▀▀▀ ▀▀▀▀     ▀   ▀ ▀▀▀▀ 
 
-░▒▓█ SYSTEM ONLINE █▓▒░  spawn: Dhaka, BD [UTC+6]  ·  render distance: 16 chunks
+▄▀▀▀▄ █▀▀▀▄ █▀▀▀▄ █   █ █     █     ▄▀▀▀▄ █   █
+█▄▄▄█ █▄▄▄▀ █   █ █   █ █     █     █▄▄▄█ █▄▄▄█
+█   █ █   █ █   █ █   █ █     █     █   █ █   █
+▀   ▀ ▀▀▀▀  ▀▀▀▀   ▀▀▀  ▀▀▀▀▀ ▀▀▀▀▀ ▀   ▀ ▀   ▀
+
+░▒▓█ SOFTWARE ENGINEER · AGENTIC DEVELOPER · PROBLEM SOLVER █▓▒░
 ```
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&pause=1200&color=3DDC84&center=true&vCenter=true&width=760&height=60&lines=FULL-STACK+ENGINEER;AI-AUGMENTED+BUILDER;AGENTIC+SYSTEMS+CRAFTER;BLOCK+BY+BLOCK%2C+SHIP+BY+SHIP)](https://gazi-nafis-rafi.vercel.app/)
-
-**`❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️`**  **`🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗`**  **`⭐ LVL 24`**  **`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 87% XP`**
+[![Titles](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=3DDC84&center=true&vCenter=true&width=740&height=46&lines=Software+Engineer;Agentic+Developer;Problem+Solver;Fullstack+Developer)](https://gazi-nafis-rafi.vercel.app/)
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=3DDC84&labelColor=0D1117)](https://gazi-nafis-rafi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=3DDC84&labelColor=0D1117)](https://www.linkedin.com/in/gazi-nafis-4712771a4/)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=3DDC84&labelColor=0D1117)](https://leetcode.com/u/gaznafis007/)
 [![Email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=3DDC84&labelColor=0D1117)](mailto:gazinafisrafi.gnr@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=gaznafis007&label=WORLD+VISITS&color=3DDC84&style=for-the-badge)](https://github.com/gaznafis007)
+
+<img src="https://img.shields.io/github/followers/gaznafis007?style=flat-square&logo=github&label=followers&labelColor=0D1117&color=3DDC84" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=gaznafis007&label=profile+views&color=3DDC84&style=flat-square" alt="views"/>
+<img src="https://img.shields.io/badge/Dhaka,_BD-UTC%2B6-0D1117?style=flat-square&labelColor=0D1117&color=4AEDD9" alt="location"/>
+<img src="https://img.shields.io/badge/open_to-work-0D1117?style=flat-square&labelColor=0D1117&color=3DDC84" alt="open to work"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="98%" alt="contribution graph"/>
+
+<sub><code>every block above is a commit — the graph eats them all</code></sub>
 
 </div>
 
-## `▓▒░` PLAYER CARD `░▒▓`
+## ▓▒░ `$ whoami`
 
 ```
-╔════════════════════════════════════════════════════════════════════╗
-║  PLAYER   GAZI NAFIS MD ABDULLAH                                   ║
-║  CLASS    Full-Stack Engineer  ·  Spec: AI-Augmented Systems       ║
-║  GUILD    Stacksatoru  ·  open-source raiding party                ║
-║  BIOME    Web · Cloud · LLM Frontier                               ║
-╠════════════════════════════════════════════════════════════════════╣
-║  LVL 24   XP  ██████████████████░░  87%   next unlock: Architect   ║
-║           HP  ████████████████████  100/100   (uptime: caffeinated)║
-║           MP  █████████████████░░░   85/100   (tokens remaining)   ║
-╠════════════════════════════════════════════════════════════════════╣
-║  ATTRIBUTES                                                        ║
-║  STR  Systems Design      ██████████████████░░  90                 ║
-║  INT  Problem Solving     ███████████████████░  95                 ║
-║  DEX  Shipping Velocity   ██████████████████░░  90                 ║
-║  WIS  Code Readability    █████████████████░░░  85                 ║
-║  CHA  Collaboration       ██████████████████░░  90                 ║
-║  LCK  Prod Deploy Friday  ████░░░░░░░░░░░░░░░░  20                 ║
-╠════════════════════════════════════════════════════════════════════╣
-║  PASSIVE  Clean, efficient, maintainable code. Seamless UX.        ║
-║  ACTIVE   Pushing modern web + agentic AI further, one block at a  ║
-║           time — currently forging Stacksatoru.                    ║
-╚════════════════════════════════════════════════════════════════════╝
-
-LEGEND   █ mastered   ░ still mining   [x] done   [ ] in progress   ◆ rare drop
+▛▀▀ $ whoami ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▜
+▌ I build full-stack products end to end, and lately with agents in    ▐
+▌ the loop. I care about clean architecture, fast runtimes, and        ▐
+▌ software that holds up once real users arrive.                       ▐
+▌                                                                      ▐
+▌ ROLE      Software Engineer · Agentic Developer                      ▐
+▌ FOCUS     Web platforms · LLM applications · Retrieval               ▐
+▌ STACK     TypeScript · Node · Next.js · Redis · Postgres             ▐
+▌ BUILDING  Stacksatoru · open-source contributions                    ▐
+▌ BASE      Dhaka, Bangladesh · remote-friendly · UTC+6                ▐
+▙▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▟
 ```
 
-## `▓▒░` SKILL TREE `░▒▓`
+---
 
-```
-                       ┌── React ──── Next.js ──── RSC / App Router
-      ┌── FRONTEND ────┼── TypeScript ── Zod ──── Design Systems
-      │                └── Tailwind ── shadcn/ui ── Framer Motion
-      │
-      │                ┌── Node.js ─── Express ─── REST / JWT / OAuth
- YOU ─┼── BACKEND ─────┼── MongoDB ─── PostgreSQL ── Prisma
-      │                └── Redis ───── Caching ─── Queues / Rate Limit
-      │
-      │                ┌── Prompt Engineering ── Evals
-      ├── AI / AGENTIC ┼── Cursor ── Claude ── GPT ── Gemini
-      │                └── RAG ── Vector DB ── MCP / Tool Calling
-      │
-      └── DEVOPS ──────┴── Docker ── CI/CD ── AWS / Vercel
-```
+## ▓▒░ `$ cat stack.md`
 
-<details open>
-<summary><b><code>[ 1 ] FRONTEND TREE — 6/6 nodes unlocked</code></b></summary>
-
-```
-React / Next.js       ███████████████████░   95   MASTER
-TypeScript            ██████████████████░░   90   MASTER
-Tailwind / shadcn     ██████████████████░░   90   MASTER
-Redux / Zustand       █████████████████░░░   85   EXPERT
-React Query / RSC     █████████████████░░░   85   EXPERT
-Framer Motion         ████████████████░░░░   80   ADEPT
-```
-
-</details>
-
-<details open>
-<summary><b><code>[ 2 ] BACKEND TREE — 7/7 nodes unlocked</code></b></summary>
-
-```
-Node.js / Express     ███████████████████░   95   MASTER
-Redis (cache+queue)   █████████████████░░░   85   EXPERT
-MongoDB / Mongoose    ██████████████████░░   90   MASTER
-PostgreSQL / Prisma   █████████████████░░░   85   EXPERT
-REST / JWT / OAuth    ██████████████████░░   90   MASTER
-Vector DB / pgvector  ████████████████░░░░   80   ADEPT
-Queues / Pub-Sub      ████████████████░░░░   80   ADEPT
-```
-
-</details>
-
-<details open>
-<summary><b><code>[ 3 ] AI + AGENTIC TREE — 9/9 nodes unlocked  ◆ endgame branch</code></b></summary>
-
-```
-Prompt Engineering    ███████████████████░   95   MASTER
-Agentic Development   ██████████████████░░   90   MASTER
-Cursor (AI-first IDE) ███████████████████░   95   MASTER
-Claude / Anthropic    ██████████████████░░   90   MASTER
-OpenAI / GPT API      █████████████████░░░   85   EXPERT
-Google Gemini         ████████████████░░░░   80   ADEPT
-RAG / Embeddings      █████████████████░░░   85   EXPERT
-MCP / Tool Calling    ████████████████░░░░   80   ADEPT
-LLM Evals / Guardrail ███████████████░░░░░   75   ADEPT
-```
-
-</details>
-
-<details open>
-<summary><b><code>[ 4 ] DEVOPS TREE — 5/6 nodes unlocked</code></b></summary>
-
-```
-Git / GitHub Actions  ██████████████████░░   90   MASTER
-Docker                ████████████████░░░░   80   ADEPT
-Vercel / Netlify      ██████████████████░░   90   MASTER
-Linux / Shell         ████████████████░░░░   80   ADEPT
-AWS                   ███████████████░░░░░   75   ADEPT
-Kubernetes            ██████░░░░░░░░░░░░░░   30   LOCKED
-```
-
-</details>
-
-## `▓▒░` HOTBAR `░▒▓`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="70"><img src="https://skillicons.dev/icons?i=ts" width="42"/></td>
-<td align="center" width="70"><img src="https://skillicons.dev/icons?i=react" width="42"/></td>
-<td align="center" width="70"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="42"/></td>
-<td align="center" width="70"><img src="https://skillicons.dev/icons?i=tailwind" width="42"/></td>
-<td align="center" width="70"><img src="https://skillicons.dev/icons?i=nodejs" width="42"/></td>
-<td align="center" width="70"><img src="https://skillicons.dev/icons?i=redis" width="42"/></td>
-<td align="center" width="70"><img src="https://skillicons.dev/icons?i=mongodb" width="42"/></td>
-<td align="center" width="70"><img src="https://skillicons.dev/icons?i=postgresql" width="42"/></td>
-<td align="center" width="70"><img src="https://skillicons.dev/icons?i=docker" width="42"/></td>
-</tr>
-<tr>
-<td align="center"><code>1</code></td>
-<td align="center"><code>2</code></td>
-<td align="center"><code>3</code></td>
-<td align="center"><code>4</code></td>
-<td align="center"><code>5</code></td>
-<td align="center"><code>6</code></td>
-<td align="center"><code>7</code></td>
-<td align="center"><code>8</code></td>
-<td align="center"><code>9</code></td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="right"><b><code>LANGUAGES</code></b></td>
+    <td><img height="44" src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css&theme=dark" alt="typescript, javascript, python, html, css"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b><code>FRONTEND</code></b></td>
+    <td><img height="44" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwindcss,redux,zustand,shadcn,gsap,framer,figma" alt="react, next.js, tailwind, redux, zustand, shadcn/ui, gsap, framer motion, figma"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b><code>BACKEND</code></b></td>
+    <td><img height="44" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,redis,prisma,firebase&theme=dark" alt="node.js, express, mongodb, postgresql, mysql, redis, prisma, firebase"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b><code>AI</code></b></td>
+    <td><img height="44" src="https://go-skill-icons.vercel.app/api/icons?i=cursor,claude,chatgpt,gemini,langchain,mcp,huggingface,pinecone" alt="cursor, claude, openai, gemini, langchain, mcp, hugging face, pinecone"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b><code>INFRA</code></b></td>
+    <td><img height="44" src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,linux,nginx,githubactions&theme=dark" alt="docker, aws, vercel, netlify, linux, nginx, github actions"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b><code>TOOLS</code></b></td>
+    <td><img height="44" src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman,npm,vite&theme=dark" alt="git, github, bitbucket, vs code, postman, npm, vite"/></td>
+  </tr>
 </table>
 
-**`ENCHANTED GEAR — AI TOOLCHAIN`**
+---
 
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-1C69FF?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_DB-0F172A?style=for-the-badge&logo=databricks&logoColor=3DDC84)
-![MCP](https://img.shields.io/badge/MCP-1A1A1A?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-
-**`OTHER BLOCKS IN THE CHEST`**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,redux,materialui,figma,express,mysql,firebase" /><br>
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,aws,vercel,netlify,vscode,prisma" />
-
-</div>
-
-## `▓▒░` CRAFTING TABLE `░▒▓`
+## ▓▒░ `$ ls -la ~/work`
 
 ```
-   ┌────────┬────────┬────────┐
-   │  TS    │ NEXT   │  TW    │
-   ├────────┼────────┼────────┤                 ╔══════════════════════╗
-   │ NODE   │ REDIS  │  DB    │  ══ craft ══>   ║  PRODUCTION-READY    ║
-   ├────────┼────────┼────────┤                 ║  AI-NATIVE PRODUCT   ║
-   │  LLM   │  RAG   │  MCP   │                 ╚══════════════════════╝
-   └────────┴────────┴────────┘
-        recipe: type-safe UI + cached API + retrieval-grounded agents
+● stacksatoru                                                 flagship
+│  web framework built around developer experience and runtime speed
+│  next.js · typescript · turborepo · edge runtime
+│
+● agentic-workflows                                                r&d
+│  multi-agent tooling and mcp servers that turn intent into code
+│  cursor · claude · openai · mcp · tool calling
+│
+● retrieval-service                                            product
+│  embeddings and vector search with a redis hot path for low latency
+│  pgvector · redis · embeddings · rerankers
+│
+● open-source                                                  ongoing
+   contributions to javascript libraries and react component ecosystems
+   javascript · react · reviews · docs
 ```
 
-## `▓▒░` BOSS RAIDS `░▒▓`
+---
 
-```
-◆◆◆ BOSS  STACKSATORU                                    TIER III  ACTIVE
-    HP    ████████████░░░░░░░░  62%    next-gen web framework: DX + perf
-    LOOT  Next.js · TypeScript · Turborepo · Edge Runtime
-
-◆◆  BOSS  AGENTIC WORKFLOWS                              TIER II   ACTIVE
-    HP    ██████████████░░░░░░  70%    multi-agent tooling, MCP servers
-    LOOT  Claude · Cursor · OpenAI · Tool Calling
-
-◆◆  BOSS  RAG SEARCH ENGINE                              TIER II   ACTIVE
-    HP    ████████████████░░░░  80%    embeddings + vector search + Redis
-    LOOT  pgvector · Redis · Embeddings · Reranking
-
-◆   BOSS  OPEN SOURCE HYDRA                              TIER I    FARMING
-    HP    ██████████░░░░░░░░░░  50%    JS libs & React component ecosystems
-    LOOT  PRs · Issues · Reviews · Good vibes
-```
-
-## `▓▒░` QUEST LOG `░▒▓`
-
-```
-DAILY QUESTS                                        PROGRESS      REWARD
-[x] Push one meaningful commit                      ██████████    +50 XP
-[x] Review a teammate's PR                          ██████████    +30 XP
-[ ] Solve a LeetCode problem                        ███████░░░    +40 XP
-[ ] Read one paper / changelog on LLM tooling       █████░░░░░    +25 XP
-
-MAIN QUEST LINE
-[x] Ship full-stack products end to end                          COMPLETE
-[x] Master the AI-augmented dev loop                             COMPLETE
-[ ] Release Stacksatoru v1                                  62% ─ IN PROG
-[ ] Build a self-improving agent swarm                      35% ─ IN PROG
-[ ] Speak at a dev conference                                0% ─ NOT YET
-```
-
-## `▓▒░` ADVANCEMENTS `░▒▓`
+## ▓▒░ `$ git log --stats`
 
 <div align="center">
 
-| | ADVANCEMENT | HOW IT WAS UNLOCKED |
-|:--:|:--|:--|
-| 🪵 | **Getting Wood** | First `git commit` — the world was generated |
-| ⛏️ | **Stone Age** | Shipped the first full-stack app to production |
-| 🔥 | **Hot Topic** | Cached the slow path with Redis, latency dropped hard |
-| 💎 | **DIAMONDS!** | TypeScript strict mode across an entire codebase |
-| 🧱 | **Architect** | Designed a modular system others could build on |
-| 🤖 | **Sentient Sidekick** | Built agentic workflows that actually ship code |
-| 🧠 | **Words of Power** | Prompt engineering that survived real users |
-| 🗺️ | **Map Room** | RAG + vector search over messy real-world data |
-| 🧪 | **Local Brewery** | Wrote evals & guardrails instead of vibes |
-| 🐉 | **Free the End** | Launch Stacksatoru v1 · `LOCKED — 62%` |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaznafis007&theme=github_dark" width="98%" alt="profile summary"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaznafis007&theme=github_dark" height="185" alt="stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaznafis007&theme=github_dark" height="185" alt="top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=gaznafis007&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=30363D&ring=3DDC84&fire=3DDC84&currStreakNum=FFFFFF&currStreakLabel=3DDC84&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" width="82%" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaznafis007&bg_color=0D1117&color=C9D1D9&line=3DDC84&point=3DDC84&area=true&area_color=3DDC84&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="activity graph"/>
 
 </div>
 
-## `▓▒░` WORLD STATS `░▒▓`
+---
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gaznafis007&show_icons=true&count_private=true&hide_border=true&title_color=3DDC84&icon_color=3DDC84&text_color=C9D1D9&bg_color=0D1117&ring_color=3DDC84&card_width=460"/>
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gaznafis007&layout=compact&hide_border=true&title_color=3DDC84&text_color=C9D1D9&bg_color=0D1117&langs_count=8"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaznafis007&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&fire=FFD24A&ring=3DDC84&currStreakLabel=3DDC84&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&background=0D1117" alt="Streak Stats" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaznafis007&bg_color=0D1117&color=3DDC84&line=3DDC84&point=FFD24A&area=true&hide_border=true&custom_title=XP%20Gained%20Over%20Time" width="96%">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gaznafis007&theme=gruvbox&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="92%" />
-
-</div>
-
-## `▓▒░` MOB HUNT `░▒▓`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="98%">
-
-<sub><code>the snake eats every commit — keep the world loaded</code></sub>
-
-</div>
-
-## `▓▒░` MULTIPLAYER `░▒▓`
+## ▓▒░ `$ contact --now`
 
 ```
-JOIN SERVER  >  gaznafis007
-MODE         >  co-op · open to collaborations & new opportunities
-LATENCY      >  usually replies within one day cycle
+▛▀▀ $ contact --now ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▜
+▌ STATUS    open to collaboration, freelance and full-time             ▐
+▌ EMAIL     gazinafisrafi.gnr@gmail.com                                ▐
+▌ REPLY     usually within one day                                     ▐
+▌ ZONE      UTC+6 · overlaps EU mornings, US evenings                  ▐
+▙▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▟
 ```
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/▶_PORTFOLIO-3DDC84?style=for-the-badge&logoColor=0D1117&labelColor=0D1117&color=3DDC84)](https://gazi-nafis-rafi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/▶_LINKEDIN-0A66C2?style=for-the-badge&labelColor=0D1117&color=0A66C2)](https://www.linkedin.com/in/gazi-nafis-4712771a4/)
-[![LeetCode](https://img.shields.io/badge/▶_LEETCODE-FFA116?style=for-the-badge&labelColor=0D1117&color=FFA116)](https://leetcode.com/u/gaznafis007/)
-[![Email](https://img.shields.io/badge/▶_EMAIL-EA4335?style=for-the-badge&labelColor=0D1117&color=EA4335)](mailto:gazinafisrafi.gnr@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3DDC84?style=for-the-badge&labelColor=0D1117&color=3DDC84)](https://gazi-nafis-rafi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117&color=0A66C2)](https://www.linkedin.com/in/gazi-nafis-4712771a4/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&labelColor=0D1117&color=EA4335)](mailto:gazinafisrafi.gnr@gmail.com)
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
+```
+█▀▀▀▄ █   █ ▀▀█▀▀ █     █▀▀▀▄    ▄▀▀▀▀ ▄▀▀▀▄ █▄ ▄█ █▀▀▀▀ ▀▀█▀▀ █   █ ▀▀█▀▀ █▄  █ ▄▀▀▀▄
+█▄▄▄▀ █   █   █   █     █   █    ▀▄▄▄  █   █ █ ▀ █ █▄▄▄    █   █▄▄▄█   █   █ ▀▄█ █  ▄▄
+█   █ █   █   █   █     █   █        █ █   █ █   █ █       █   █   █   █   █   █ █   █
+▀▀▀▀   ▀▀▀  ▀▀▀▀▀ ▀▀▀▀▀ ▀▀▀▀     ▀▀▀▀   ▀▀▀  ▀   ▀ ▀▀▀▀▀   ▀   ▀   ▀ ▀▀▀▀▀ ▀   ▀  ▀▀▀ 
+
+▄▀▀▀▄ ▄▀▀▀▄ ▄▀▀▀▄ █▀▀▀▄
+█  ▄▄ █   █ █   █ █   █
+█   █ █   █ █   █ █   █
+ ▀▀▀   ▀▀▀   ▀▀▀  ▀▀▀▀ 
+```
 
 </div>
-
-```
-░▒▓█ SAVING WORLD... ████████████████████ 100% █▓▒░
-> thanks for visiting. now go place a block.
-```
