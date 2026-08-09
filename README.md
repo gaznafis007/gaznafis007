@@ -30,7 +30,6 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="98%" alt="contribution graph"/>
 
-<sub><code>every block above is a commit — the graph eats them all</code></sub>
 
 </div>
 
