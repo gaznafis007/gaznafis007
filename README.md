@@ -11,7 +11,6 @@
 █   █ █   █ █   █ █   █ █     █     █   █ █   █
 ▀   ▀ ▀▀▀▀  ▀▀▀▀   ▀▀▀  ▀▀▀▀▀ ▀▀▀▀▀ ▀   ▀ ▀   ▀
 
-░▒▓█ SOFTWARE ENGINEER · AGENTIC DEVELOPER · PROBLEM SOLVER █▓▒░
 ```
 
 [![Titles](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=3DDC84&center=true&vCenter=true&width=740&height=46&lines=Software+Engineer;Agentic+Developer;Problem+Solver;Fullstack+Developer)](https://gazi-nafis-rafi.vercel.app/)
